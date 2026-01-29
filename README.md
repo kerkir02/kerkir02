@@ -13,8 +13,8 @@ I build small, playable projects to showcase my skills in game development and p
 **Tech:** Unity, C#, TextMeshPro, 2D Physics  
 **Skills:** UI, Physics, Game Logic, Object Spawning, Input Handling  
 
-🔗 GitHub:  
-▶ Play: 
+🔗 GitHub:  https://github.com/kerkir02/Olimpic-Tower
+▶ Play: https://play.unity.com/en/games/70058fc1-dfc3-437b-bb8e-95dfdad5d3e4/final
 
 ---
 
