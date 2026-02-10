@@ -1,4 +1,4 @@
-# 👋 Hi, I'm kerkir02
+# 👋 Hi, I'm Krzysztof
 
 Junior Unity Developer focused on C# gameplay programming, game systems, and interactive mechanics.  
 I build small but complete Unity projects to practice problem-solving, game logic, and clean code.
