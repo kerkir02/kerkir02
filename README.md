@@ -7,6 +7,26 @@ I build small but complete Unity projects to practice problem-solving, game logi
 
 ## 🎮 Game Projects
 
+### Platform Game
+**2D platformer prototype built in Unity focused on player movement, enemy interaction and collectible systems.
+The project served as an introduction to working with animations, external assets and Wwise audio integration.**
+
+**Tech:** Unity, C#, TextMeshPro, 2D Physics, Animator Controller, Wwise
+
+**What I implemented:**
+- Player controller with physics-based movement and double jump
+- Enemy interaction system including head-stomp detection, knockback and damage mechanics
+- Inheritance-based enemy architecture with multiple enemy types (Slime, Bee, Frog, Saw, Spiked Slime)
+- Collectible item system (coins, gems, health pickups) implemented using inheritance and enums
+- Custom camera and world systems including camera follow, UI tracking and looping background
+- Game state management using a Singleton GameManager (score, UI updates, level progression)
+- Wwise audio integration for music and gameplay sound effects
+
+🔗 GitHub:  https://github.com/kerkir02/Platform-Game
+▶ Play:     https://drive.google.com/file/d/1-uXoY_DQ0t7sjLrhLWIC1zfIYfqkZIMN/view?usp=drive_link
+
+---
+
 ### Treasure Hunter
 **Unity arcade game about navigating dangerous waters, avoiding cannon fire and moving whirlpools while trying to survive with limited lives.**
 
