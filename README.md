@@ -23,7 +23,7 @@ The project served as an introduction to working with animations, external asset
 - Wwise audio integration for music and gameplay sound effects
 
 🔗 GitHub:  https://github.com/kerkir02/Platform-Game
-▶ Play:     https://drive.google.com/file/d/1-uXoY_DQ0t7sjLrhLWIC1zfIYfqkZIMN/view?usp=drive_link
+▶ Play:     https://drive.google.com/file/d/1OLBxa42FV08YueJDhE1tMyipt4tXho0j/view?usp=drive_link
 
 ---
 
